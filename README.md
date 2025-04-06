@@ -1,10 +1,10 @@
-# Awesome Hacktoberfest 2023 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Awesome Hacktoberfest 2025 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> We present a curated list of awesome Hacktoberfest 2023 repositories. If you enjoyed this resource, please leave a star ⭐ to support this project! ✨
+> We present a curated list of awesome Hacktoberfest 2025 repositories. If you enjoyed this resource, please leave a star ⭐ to support this project! ✨
 
 > Feel Free to add your repos to the list 😄
 
-> Don't forget to [read our contributing guide](https://github.com/Piyushhbhutoria/awesome-hacktoberfest-2023/blob/master/CONTRIBUTING.md)
+> Don't forget to [read our contributing guide](https://github.com/Piyushhbhutoria/awesome-hacktoberfest-2025/blob/master/CONTRIBUTING.md)
 
 ## Contents
 
@@ -57,4 +57,4 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
 ## License
 
-![GitHub](https://img.shields.io/github/license/Piyushhbhutoria/awesome-hacktoberfest-2023)
+![GitHub](https://img.shields.io/github/license/Piyushhbhutoria/awesome-hacktoberfest-2025)

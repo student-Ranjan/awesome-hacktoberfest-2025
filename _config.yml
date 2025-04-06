@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+title: Awesome Hacktoberfest 2025
+description: A curated list of awesome Hacktoberfest 2025 repositories
+show_downloads: true
+github:
+  is_project_page: true
+  repository_url: https://github.com/Piyushhbhutoria/awesome-hacktoberfest-2025
+  repository_name: awesome-hacktoberfest-2025
+  owner_url: https://github.com/Piyushhbhutoria
+  owner_name: Piyush Bhutoria
